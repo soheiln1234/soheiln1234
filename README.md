@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soheiln1234
-- 👀 I’m interested in React-native,JS,TS
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in React-native,JS,TS,Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me soheiln1234@gmail.com
 
