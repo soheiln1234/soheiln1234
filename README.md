@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello, My friends!👋</h1>
 
-- 👋 Hi, I’m @soheiln1234
+- 👋 Hi, I’m @soheilnikroo
 - 👀 I’m interested in React-native, JS, TS, Python
 - 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on ...
